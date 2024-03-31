@@ -1,0 +1,10 @@
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/MessagingServiceGrpc.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/GrpcdemoProto.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/UserRequestOrBuilder.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/MessagesResponse.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/MessageRequestOrBuilder.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/MessageResponse.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/MessageResponseOrBuilder.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/MessagesResponseOrBuilder.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/MessageRequest.java
+/home/achraf/javaSR/Mini-Projet-SR/grpcdemo/src/main/java/com/example/grpcdemo/UserRequest.java

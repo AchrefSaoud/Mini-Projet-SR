@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.example.grpcdemo";
+option java_outer_classname = "GrpcdemoProto";
+
+package grpcdemo;
+
+service MessagingService {
+    rpc SendMessage(MessageRequest) returns (MessageResponse);
+
+    rpc GetReceivedMessages(UserRequest) returns (MessagesResponse);
+}
+
+message MessageRequest {
+    string sender_id = 1;
+    string recipient_id = 2;
+    string text = 3;
+}
+
+message MessageResponse {
+    string message_id = 1;
+    string status = 2;
+}
+
+message UserRequest {
+    string user_id = 1;
+}
+
+message MessagesResponse {
+    repeated MessageResponse messages = 1;
+}
